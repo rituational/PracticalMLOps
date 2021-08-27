@@ -1,6 +1,7 @@
-def add(x,y):
-    '''This is add function'''
+def add(x, y):
+    """This is add function"""
 
-        return x+y
+    return x + y
 
-print(add(1,11))
+
+print(add(1, 11))
